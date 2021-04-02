@@ -1,0 +1,8 @@
+**/*.log*
+*lock*
+node_modules
+worktree*/**/*
+docs
+coverage
+
+dist
